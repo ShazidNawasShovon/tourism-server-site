@@ -49,6 +49,7 @@ async function run() {
     // Add Package Order API
     app.post("/orders", async (req, res) => {
       const order = req.body;
+      console(order);
       const result = await orderCollection.insertOne(order);
       res.json(result);
     });
