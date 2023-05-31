@@ -9,7 +9,7 @@
 
 ## Website Link : https://go-tour-eebdc.web.app
 
-## Server Link : https://agile-inlet-86907.herokuapp.com/
+## Server Link : https://tourism-server-2xct.onrender.com/
 
 ### Description
 
